@@ -1,0 +1,12 @@
+{
+    "name": "yyun543/cdemo",
+    "description": "This is a Composer demo project.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BugLi",
+            "email": "263273742@qq.com"
+        }
+    ],
+    "require": {}
+}
